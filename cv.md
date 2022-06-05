@@ -45,6 +45,11 @@ public class Kata {
     + Testing Engineer
     + HTML, CSS, JavaScript: introductory module
 
+**Skills:**
+* Figma
+* Git
+* PhotoShop
+
 **Work experience:**
 
 Nothing yet…
