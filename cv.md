@@ -16,7 +16,6 @@ I am an advertising specialist by education, but in fact I have not worked any d
 **Code example:**
 
 ```
-Заюшка, [05.06.2022 14:45]
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
