@@ -10,7 +10,7 @@
 ***
 **About myself:**
 
-I am an advertising specialist by education, but in fact I have not worked any day in this profession. I have two wonderful children, and while they are growing up, I am doing creative work. I sincerely want to learn a programming language, so now I'm learning Front-End Development in RSSchool.
+I am an advertising specialist by education, but in fact I have not worked any day in this profession. I have two wonderful children, beautiful husband and while they are growing up, I am doing creative work. I sincerely want to learn a programming language, so now I'm learning Front-End Development in RSSchool.
 k
 
 ```
