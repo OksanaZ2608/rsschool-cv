@@ -36,6 +36,11 @@ public class Kata {
 }
 ```
 ***
+**Skills:**
+* Git
+* Figma
+* Photoshop
+
 **Education and courses:**
 
 * Introductory courses on Yandex.Practikum (free of charge):
